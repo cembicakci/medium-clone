@@ -1,0 +1,28 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.active{
+    font-weight: bold;
+    color: black;
+}
+
+.bgc-image{
+    background-size: 349px 353px;
+    
+    background-image:url(https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png);
+    background-repeat: no-repeat;
+    background-position: bottom 0px right 100px;
+}
+
+.bg-yellow{
+    background-color: rgb(255, 192, 23);
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
